@@ -58,34 +58,34 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name   : "Edmund Injae Lee"
+  avatar : "/assets/images/49210774_10157144759527160_4322461971526975488_n.jpg"
+  bio    : "Energetic, implementation oriented, interested in vibe coding."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
+#    - label: "Website"
+#      icon: "fas fa-fw fa-link"
+#      url: "https://"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://x.com/edmundinjaelee/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/naperwind/"
+ #   - label: "Instagram"
+ #     icon: "fab fa-fw fa-instagram"
+ #     url: "https://instagram.com/"
 
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://x.com/edmundinjaelee/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/naperwind/"
+#    - label: "Instagram"
+#      icon: "fab fa-fw fa-instagram"
+#      url: "https://instagram.com/"
 
 defaults:
   # _posts
